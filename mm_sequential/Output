@@ -1,0 +1,17 @@
+OUTPUT:
+~$ gcc sequential.c -o sequential 
+~$ ./sequential
+enter the number of row=3
+enter the number of column=3
+enter the first matrix element=
+1 2 3
+4 5 6 
+5 6 7
+enter the second matrix element=
+7 8 9
+6 5 4
+2 3 1
+Resultant matrix=
+25      27      20
+70      75      62
+85      91      76
